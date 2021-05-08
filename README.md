@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate with DataScience Technology stuff
 - ✔ REACH ME via [LinkedIn](https://www.linkedin.com/in/neetu-pundir/)
 - 👀 Goals is to contribute more to Open Source projects
+- 😄 Pronouns: She/ Her
 
 <!---
 PundirNeetu/PundirNeetu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
