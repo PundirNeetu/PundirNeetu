@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Neetu Pundir (@PundirNeetu)
+- 👋 Hi, I’m Neetu Pundir
 - 👀 I’m interested in Learning and excel my skills in Python, SQL, numpy , pandas, Microsoft Excel, Machine Learning and Deep Learning  
 - 🌱 I have completed MS in Data Science and currently learning from Mooc projects and Kaggle
 - 💞️ I’m looking to collaborate with DataScience Technology stuff
