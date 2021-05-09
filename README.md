@@ -5,6 +5,7 @@
 - ✔ REACH ME via [LinkedIn](https://www.linkedin.com/in/neetu-pundir/)
 - 👀 Goals is to contribute more to Open Source projects
 - 😄 Pronouns: She/ Her
+- 😎 know Git and Github
 
 **Profile view counter**
 
