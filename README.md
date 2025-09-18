@@ -9,7 +9,7 @@
 
 **Profile view counter**
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=PundirNeetu.PundirNeetu)
+![Profile views](https://komarev.com/ghpvc/?username=PundirNeetu&color=blue&style=flat-square)
 
 
 **Neetu Stats Card**
