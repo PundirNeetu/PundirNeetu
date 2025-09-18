@@ -14,10 +14,12 @@
 
 **Neetu Stats Card**
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=PundirNeetu&theme=highcontrast&show_icons=true&count_private=true)
+![Neetu GitHub Stats](https://github-stats-neetu.vercel.app/api?username=PundirNeetu&theme=highcontrast&show_icons=true&count_private=true)
+
+
 
 **Language Proficiency**
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=PundirNeetu)
+![Top Languages](https://github-stats-neetu.vercel.app/api/top-langs/?username=PundirNeetu)
 
 
