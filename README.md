@@ -7,19 +7,17 @@
 - 😄 Pronouns: She/ Her
 - 😎 know Git and Github
 
-**Profile view counter**
+### Profile view counter ###
 
 ![Profile views](https://komarev.com/ghpvc/?username=PundirNeetu&color=blue&style=flat-square)
 
 
-**Neetu Stats Card**
+### GitHub Stats
 
-![Neetu GitHub Stats](https://github-stats-neetu.vercel.app/api?username=PundirNeetu&theme=highcontrast&show_icons=true&count_private=true)
+![GitHub Stats](https://neetu-github-stats-99g1.vercel.app/api?username=PundirNeetu&theme=highcontrast&show_icons=true&count_private=true)
 
+### Top Languages
 
-
-**Language Proficiency**
-
-![Top Languages](https://github-stats-neetu.vercel.app/api/top-langs/?username=PundirNeetu)
+![Top Languages](https://neetu-github-stats-99g1.vercel.app/api/top-langs/?username=PundirNeetu)
 
 
