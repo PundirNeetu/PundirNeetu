@@ -1,11 +1,38 @@
-- 👋 Hi, I’m Neetu Pundir 
-- 👀 I’m interested in Learning and excel my skills in Python, SQL, numpy , pandas, Microsoft Excel, Machine Learning and Deep Learning  
-- 🌱 I have completed MS in Data Science and currently learning from Mooc projects and Kaggle
-- 💞️ I’m looking to collaborate with DataScience Technology stuff
-- ✔ REACH ME via [LinkedIn](https://www.linkedin.com/in/neetu-pundir/)
+### Hi there, I'm Neetu! 👋
+
+- 👀 interested in Learning and excel my skills in Machine Learning, Deep Learning and AI
+- 🌱 completed MS in Data Science and currently learning from Mooc projects and Kaggle
+- 💞️ looking to collaborate with DataScience Technology stuff
 - 👀 Goals is to contribute more to Open Source projects
 - 😄 Pronouns: She/ Her
-- 😎 know Git and Github
+
+
+### 🛠️ Skills & Technologies
+
+- Python, SQL, Excel
+- Docker
+- Git, GitHub, Bitbucket
+
+### 🚀 Featured Projects
+
+- [Portfolio Website](https://github.com/PundirNeetu/portfolio) - My personal site built with React.
+
+
+### ⚡ Fun Facts
+
+- Coffee enthusiast ☕
+- Avid traveler 🌍
+- Plantation 🌱
+
+### 🌱 Currently Learning
+
+- AI tech
+
+### 📫 Connect with me
+
+- LinkedIn:  [Neetu Pundir](https://www.linkedin.com/in/neetu-pundir/)
+- Email: neetu.pundir@outlook.com
+
 
 ### Profile view counter ###
 
