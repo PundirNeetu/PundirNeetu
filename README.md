@@ -15,7 +15,7 @@
 
 ### 🚀 Featured Projects
 
-- [Portfolio Website](https://github.com/PundirNeetu/portfolio) - My personal site built with React.
+- [Portfolio Website](https://pundirneetu.github.io/NeetuPortfolio/) - My personal site built with React.
 
 
 ### ⚡ Fun Facts
